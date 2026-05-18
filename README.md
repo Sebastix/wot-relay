@@ -16,6 +16,7 @@ Don't want to run the relay, just want to connect to some? Here are some availab
 - [wss://wot.nostr.net](https://wot.nostr.net)
 - [wss://relay.goodmorningbitcoin.com](https://relay.goodmorningbitcoin.com)
 - [wss://wot.dergigi.com/](https://wot.dergigi.com/)
+- [wss://wot.sebastix.social](wss://wot.sebastix.social)
 
 ## Prerequisites
 
